@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672337659 source:c:\users\asdf\desktop\codeblocks\hotel_version 2\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
